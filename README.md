@@ -14,6 +14,8 @@ An Interactive web application for identifying food names based on the images, p
 
 ![Image 2-11-20 at 2 41 PM](https://user-images.githubusercontent.com/36050687/74286510-c5024d80-4cdc-11ea-98da-f2ff7d68267f.jpg)
 
+
+![Image 2-11-20 at 2 41 PM](https://user-images.githubusercontent.com/36050687/74286669-1e6a7c80-4cdd-11ea-9f5a-cdf2b77739cd.jpg)
 ## <ins> Presentation Link </ins>
 https://docs.google.com/presentation/d/1L3HPKQ_NltZVhTflytylM7TNFtg3tfW1BnI9JeCAXP4/edit?usp=sharing
 
