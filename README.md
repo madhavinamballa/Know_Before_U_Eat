@@ -3,10 +3,9 @@
 An Interactive web application for identifying food names based on the images, providing nutritional facts (For eg: calculating calories of the food you're eating) for diet advice and predicting the recipes based on the predicted food names.
 
 # Team Members
-1) Saranya 
-2) Madhavi Namballa
+1) Madhavi namballa 
+2) Saranya
 3) Olga
-4) Vaishnavi
 
 ## <ins> Final Deployed Application Link </ins>
 <a href="http://34.94.205.236:5000/#About"> Know Before You Eat </a>
