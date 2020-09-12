@@ -5,7 +5,6 @@ An Interactive web application for identifying food names based on the images, p
 # Team Members
 1) Madhavi namballa 
 2) Saranya
-3) Olga
 
 ## <ins> Final Deployed Application Link </ins>
 <a href="http://34.94.205.236:5000/#About"> Know Before You Eat </a>
